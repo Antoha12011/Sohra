@@ -14,6 +14,7 @@
 		129A906928BBE5D7000A11F1 /* Sohra.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 129A906728BBE5D7000A11F1 /* Sohra.xcdatamodeld */; };
 		129A906B28BBE5D8000A11F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 129A906A28BBE5D8000A11F1 /* Assets.xcassets */; };
 		129A906E28BBE5D8000A11F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 129A906C28BBE5D8000A11F1 /* LaunchScreen.storyboard */; };
+		129A907628BBF061000A11F1 /* DataCollectionVIewCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129A907528BBF061000A11F1 /* DataCollectionVIewCellCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		129A906A28BBE5D8000A11F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		129A906D28BBE5D8000A11F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		129A906F28BBE5D8000A11F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		129A907528BBF061000A11F1 /* DataCollectionVIewCellCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataCollectionVIewCellCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				129A905E28BBE5D6000A11F1 /* AppDelegate.swift */,
 				129A906028BBE5D6000A11F1 /* SceneDelegate.swift */,
 				129A906228BBE5D6000A11F1 /* ViewController.swift */,
+				129A907528BBF061000A11F1 /* DataCollectionVIewCellCollectionViewCell.swift */,
 				129A906428BBE5D6000A11F1 /* Main.storyboard */,
 				129A906A28BBE5D8000A11F1 /* Assets.xcassets */,
 				129A906C28BBE5D8000A11F1 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				129A906328BBE5D6000A11F1 /* ViewController.swift in Sources */,
 				129A905F28BBE5D6000A11F1 /* AppDelegate.swift in Sources */,
+				129A907628BBF061000A11F1 /* DataCollectionVIewCellCollectionViewCell.swift in Sources */,
 				129A906128BBE5D6000A11F1 /* SceneDelegate.swift in Sources */,
 				129A906928BBE5D7000A11F1 /* Sohra.xcdatamodeld in Sources */,
 			);
